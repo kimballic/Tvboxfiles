@@ -25,7 +25,11 @@
             "name": "最大资源",
             "type": 1,
             "api": "https://zuidazy.me/api.php/provide/vod/"
-        },        {
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },        
+        {
             "key": "异界动漫",
             "name": "异界动漫",
             "type": 3,
