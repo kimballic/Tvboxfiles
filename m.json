@@ -11,203 +11,10 @@
             "filterable": 0
         },
         {
-            "key": "热播多线",
-            "name": "热播多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-        },
-        {
-            "key": "萌米多线",
-            "name": "萌米多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "timeout": 15,
-            "playerType": 1,
-            "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
-        },
-        {
-            "key": "欢视多线",
-            "name": "欢视多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
-        },
-        {
-            "key": "文采秒播",
-            "name": "文采秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "糯米秒播",
-            "name": "糯米秒播",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "利奥影视",
-            "name": "利奥影视",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/libvio.js"
-        },
-        {
-            "key": "低端影视-drpy",
-            "name": "低端影视",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/ddys.js"
-        },
-        {
-            "key": "在线之家",
-            "name": "在线之家",
-            "type": 3,
-            "api": "csp_ZxzjGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/"
-        },
-        {
-            "key": "原创影视",
-            "name": "原创影视",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 15,
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "奥特影视",
-            "name": "奥特影视",
-            "type": 3,
-            "api": "csp_AueteGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.com/"
-        },
-        {
-            "key": "新6V",
-            "name": "新6V磁力",
-            "type": 3,
-            "api": "csp_SixVGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://www.xb6v.com/"
-        },
-        {
-            "key": "SP2345",
-            "name": "2345影视",
-            "type": 3,
-            "api": "csp_SP2345",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./jar/Extra.jar;md5;CD4C7F811864B0D97885EC48303000A4"
-        },
-        {
-            "key": "哔哩歌曲",
-            "name": "哔哩歌曲",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "./ext/biliych.json"
-            }
-        },
-        {
-            "key": "哔哩哔哩",
-            "name": "哔哩合集",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": {
-                "json": "./ext/bilibili.json"
-            }
-        },
-        {
-            "key": "MTV合集",
-            "name": "MTV合集",
+            "key": "6e31126e4b7e6db33dcde3d30e309463",
+            "name": "最大资源",
             "type": 1,
-            "api": "https://open-yaolaikeji.koyeb.app/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "酷奇MV",
-            "name": "酷奇MV",
-            "type": 3,
-            "api": "./js/drpymin2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./js/kuqimv.js"
-        },
-        {
-            "key": "异界动漫",
-            "name": "异界动漫",
-            "type": 3,
-            "api": "csp_YsjGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "日本动漫",
-            "name": "日本动漫",
-            "type": 3,
-            "api": "csp_Anime1Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "低端影视-jar",
-            "name": "低端影视",
-            "type": 3,
-            "api": "csp_DdrkGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "api": "https://zuidazy.me/api.php/provide/vod/"
         },
         {
             "key": "苹果影视",
@@ -294,46 +101,25 @@
                 "海外动漫"
             ]
         },
+
         {
-            "key": "玩偶哥哥",
-            "name": "玩偶哥哥",
+            "key": "异界动漫",
+            "name": "异界动漫",
             "type": 3,
-            "api": "csp_WoGGGuard",
+            "api": "csp_YsjGuard",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto",
-                "siteUrl": "https://www.wogg.net/",
-                "danMu": "弹"
-            }
+            "changeable": 1
         },
         {
-            "key": "YpanSo",
-            "name": "盘她┃三盘",
+            "key": "日本动漫",
+            "name": "日本动漫",
             "type": 3,
-            "api": "csp_YpanSoGuard",
+            "api": "csp_Anime1Guard",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
+            "filterable": 1
         },
-        {
-            "key": "xzso",
-            "name": "盘它┃三盘",
-            "type": 3,
-            "api": "csp_XzsoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
         }
     ],
     "parses": [
