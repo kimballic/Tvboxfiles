@@ -11,12 +11,6 @@
             "filterable": 0
         },
         {
-            "key": "6e31126e4b7e6db33dcde3d30e309463",
-            "name": "最大资源",
-            "type": 1,
-            "api": "https://zuidazy.me/api.php/provide/vod/"
-        },
-        {
             "key": "苹果影视",
             "name": "苹果影视",
             "type": 3,
@@ -24,6 +18,30 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+
+        {
+            "key": "6e31126e4b7e6db33dcde3d30e309463",
+            "name": "最大资源",
+            "type": 1,
+            "api": "https://zuidazy.me/api.php/provide/vod/"
+        },        {
+            "key": "异界动漫",
+            "name": "异界动漫",
+            "type": 3,
+            "api": "csp_YsjGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "日本动漫",
+            "name": "日本动漫",
+            "type": 3,
+            "api": "csp_Anime1Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "量子资源",
@@ -100,26 +118,6 @@
                 "港台动漫",
                 "海外动漫"
             ]
-        },
-
-        {
-            "key": "异界动漫",
-            "name": "异界动漫",
-            "type": 3,
-            "api": "csp_YsjGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "日本动漫",
-            "name": "日本动漫",
-            "type": 3,
-            "api": "csp_Anime1Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         }
     ],
     "parses": [
